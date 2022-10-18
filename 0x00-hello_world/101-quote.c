@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - print exactly and that piece of art is useful
- *return: Always 0 success 
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
