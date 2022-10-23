@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 /**
  * jack_bauer - prints every minutes of the day starting from 00:00 t0 23:59
  * Return: returns 0
